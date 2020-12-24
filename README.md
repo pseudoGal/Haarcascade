@@ -1,5 +1,5 @@
 # Haarcascade
-Simple model to detect frontal_face and Eye
+Simple model to detect frontal_face and Eye of a Human.
 
 
 Requirements:
